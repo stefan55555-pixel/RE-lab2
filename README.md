@@ -31,7 +31,7 @@
 
 **Needs:**
 
-- See what equipment is available and what is not.
+- See what equipment is available and what is unavailable.
 - See what equipment is present.
 
 **Concerns:**
@@ -84,8 +84,16 @@
 
 ## Information Sources
 
+_Add information sources here._
+
 ## Elicitation Questions
+
+- _Add elicitation questions here._
 
 ## Interview Notes
 
+_Add interview notes here._
+
 ## Candidate Requirements
+
+_Add candidate requirements here._
